@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{8EB9EBB1-1F4C-4248-9A34-8F7B236A3EB8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Queries.cs">
+    <Files>
+      <File FileName="MainPage.xaml.cs" />
+      <File FileName="Resources/Styles/Colors.xaml" />
+      <File FileName="Queries.cs" Line="245" Column="22" />
+      <File FileName="Resources/Styles/Styles.xaml" />
+      <File FileName="ChessGame.cs" />
+      <File FileName="MainPage.xaml" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ChessBrowser PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{91502947-F0A5-4715-90CC-3C1E1A4FABCB}|Default">
+  <MonoDevelop.Ide.ItemProperties.LMS PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ProfessorController.cs">
+    <Files>
+      <File FileName="Migrations/20230727172256_CreateIdentitySchema.cs" Line="43" Column="97" />
+      <File FileName="Program.cs" Line="28" Column="11" />
+      <File FileName="Areas/Identity/Pages/Account/Register.cshtml.cs" Line="199" Column="28" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/StudentController.cs" Line="58" Column="27" />
+      <File FileName="Views/Home/Index.cshtml" Line="1" Column="3" />
+      <File FileName="../../../lab8/LibraryWebServer /LibraryWebServer/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ProfessorController.cs" Line="120" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LMS" expanded="True">
+            <Node name="LMS">
+              <Node name="Areas" expanded="True">
+                <Node name="Identity" expanded="True">
+                  <Node name="Pages" expanded="True">
+                    <Node name="Account" expanded="True">
+                      <Node name="Register.cshtml" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="ProfessorController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
